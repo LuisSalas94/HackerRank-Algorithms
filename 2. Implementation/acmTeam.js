@@ -1,7 +1,5 @@
-/* https://www.hackerrank.com/challenges/acm-icpc-team/problem 
-https://www.youtube.com/watch?v=osPrWpxb01U&ab_channel=DevO%27lee
-*/
-
+/* https://www.hackerrank.com/challenges/acm-icpc-team/problem
+ */
 function acmTeam(topic) {
 	let arr = [];
 	for (let i = 0; i < topic.length; i++) {

@@ -1,7 +1,5 @@
-/* https://www.hackerrank.com/challenges/append-and-delete/problem 
-  https://www.youtube.com/watch?v=lrDmoP9pBtw&t=280s&ab_channel=HackersRealm
-  https://www.youtube.com/watch?v=pLQdto34Rlo&t=33s&ab_channel=EdvinHe
-*/
+/* https://www.hackerrank.com/challenges/append-and-delete/problem
+ */
 function appendAndDelete(s, t, k) {
 	let sIndex = 0;
 	let tIndex = 0;
